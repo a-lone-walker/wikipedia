@@ -73,10 +73,6 @@ Feel free to fork this repository and submit pull requests. Any contributions ar
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Inspired by various wiki search projects.
-- Thanks to the open-source community for their valuable contributions.
 
 ## Contact
 
